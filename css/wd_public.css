@@ -1,0 +1,26 @@
+.yith-wcqv-close {
+  background-color: red !important;
+  color: white !important;
+  width: 30px !important;
+  height: 30px !important;
+  padding: 5px !important;
+  margin: 10px !important;
+  border-radius: 3px !important;
+}
+
+#yith-quick-view-content {
+  margin: 20px !important;
+}
+
+.rtin-right {
+  margin: 0px 15px !important;
+}
+.woodevz-add-to-whishlist {
+  margin: 10px;
+  color: black;
+  cursor: pointer;
+}
+
+.yith-wcqv-wrapper {
+  border: 2px solid #bcb5b5 !important;
+}
